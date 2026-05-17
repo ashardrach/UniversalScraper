@@ -1,0 +1,191 @@
+{
+  "headlines": [
+    {
+      "type": "H1",
+      "text": "All products"
+    },
+    {
+      "type": "H3",
+      "text": "A Light in the ..."
+    },
+    {
+      "type": "H3",
+      "text": "Tipping the Velvet"
+    },
+    {
+      "type": "H3",
+      "text": "Soumission"
+    },
+    {
+      "type": "H3",
+      "text": "Sharp Objects"
+    },
+    {
+      "type": "H3",
+      "text": "Sapiens: A Brief History ..."
+    },
+    {
+      "type": "H3",
+      "text": "The Requiem Red"
+    },
+    {
+      "type": "H3",
+      "text": "The Dirty Little Secrets ..."
+    },
+    {
+      "type": "H3",
+      "text": "The Coming Woman: A ..."
+    },
+    {
+      "type": "H3",
+      "text": "The Boys in the ..."
+    },
+    {
+      "type": "H3",
+      "text": "The Black Maria"
+    },
+    {
+      "type": "H3",
+      "text": "Starving Hearts (Triangular Trade ..."
+    },
+    {
+      "type": "H3",
+      "text": "Shakespeare's Sonnets"
+    },
+    {
+      "type": "H3",
+      "text": "Set Me Free"
+    },
+    {
+      "type": "H3",
+      "text": "Scott Pilgrim's Precious Little ..."
+    },
+    {
+      "type": "H3",
+      "text": "Rip it Up and ..."
+    },
+    {
+      "type": "H3",
+      "text": "Our Band Could Be ..."
+    },
+    {
+      "type": "H3",
+      "text": "Olio"
+    },
+    {
+      "type": "H3",
+      "text": "Mesaerion: The Best Science ..."
+    },
+    {
+      "type": "H3",
+      "text": "Libertarianism for Beginners"
+    },
+    {
+      "type": "H3",
+      "text": "It's Only the Himalayas"
+    }
+  ],
+  "links": [],
+  "images": [
+    {
+      "alt": "A Light in the Attic",
+      "url": "https://books.toscrape.com/media/cache/2c/da/2cdad67c44b002e7ead0cc35693c0e8b.jpg"
+    },
+    {
+      "alt": "Tipping the Velvet",
+      "url": "https://books.toscrape.com/media/cache/26/0c/260c6ae16bce31c8f8c95daddd9f4a1c.jpg"
+    },
+    {
+      "alt": "Soumission",
+      "url": "https://books.toscrape.com/media/cache/3e/ef/3eef99c9d9adef34639f510662022830.jpg"
+    },
+    {
+      "alt": "Sharp Objects",
+      "url": "https://books.toscrape.com/media/cache/32/51/3251cf3a3412f53f339e42cac2134093.jpg"
+    },
+    {
+      "alt": "Sapiens: A Brief History of Humankind",
+      "url": "https://books.toscrape.com/media/cache/be/a5/bea5697f2534a2f86a3ef27b5a8c12a6.jpg"
+    },
+    {
+      "alt": "The Requiem Red",
+      "url": "https://books.toscrape.com/media/cache/68/33/68339b4c9bc034267e1da611ab3b34f8.jpg"
+    },
+    {
+      "alt": "The Dirty Little Secrets of Getting Your Dream Job",
+      "url": "https://books.toscrape.com/media/cache/92/27/92274a95b7c251fea59a2b8a78275ab4.jpg"
+    },
+    {
+      "alt": "The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",
+      "url": "https://books.toscrape.com/media/cache/3d/54/3d54940e57e662c4dd1f3ff00c78cc64.jpg"
+    },
+    {
+      "alt": "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",
+      "url": "https://books.toscrape.com/media/cache/66/88/66883b91f6804b2323c8369331cb7dd1.jpg"
+    },
+    {
+      "alt": "The Black Maria",
+      "url": "https://books.toscrape.com/media/cache/58/46/5846057e28022268153beff6d352b06c.jpg"
+    },
+    {
+      "alt": "Starving Hearts (Triangular Trade Trilogy, #1)",
+      "url": "https://books.toscrape.com/media/cache/be/f4/bef44da28c98f905a3ebec0b87be8530.jpg"
+    },
+    {
+      "alt": "Shakespeare's Sonnets",
+      "url": "https://books.toscrape.com/media/cache/10/48/1048f63d3b5061cd2f424d20b3f9b666.jpg"
+    },
+    {
+      "alt": "Set Me Free",
+      "url": "https://books.toscrape.com/media/cache/5b/88/5b88c52633f53cacf162c15f4f823153.jpg"
+    },
+    {
+      "alt": "Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)",
+      "url": "https://books.toscrape.com/media/cache/94/b1/94b1b8b244bce9677c2f29ccc890d4d2.jpg"
+    },
+    {
+      "alt": "Rip it Up and Start Again",
+      "url": "https://books.toscrape.com/media/cache/81/c4/81c4a973364e17d01f217e1188253d5e.jpg"
+    },
+    {
+      "alt": "Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",
+      "url": "https://books.toscrape.com/media/cache/54/60/54607fe8945897cdcced0044103b10b6.jpg"
+    },
+    {
+      "alt": "Olio",
+      "url": "https://books.toscrape.com/media/cache/55/33/553310a7162dfbc2c6d19a84da0df9e1.jpg"
+    },
+    {
+      "alt": "Mesaerion: The Best Science Fiction Stories 1800-1849",
+      "url": "https://books.toscrape.com/media/cache/09/a3/09a3aef48557576e1a85ba7efea8ecb7.jpg"
+    },
+    {
+      "alt": "Libertarianism for Beginners",
+      "url": "https://books.toscrape.com/media/cache/0b/bc/0bbcd0a6f4bcd81ccb1049a52736406e.jpg"
+    },
+    {
+      "alt": "It's Only the Himalayas",
+      "url": "https://books.toscrape.com/media/cache/27/a5/27a53d0bb95bdd88288eaf66c9230d7e.jpg"
+    }
+  ],
+  "emails": [],
+  "phones": [
+    "2016 09",
+    "510662022830",
+    "2134093",
+    "8369331",
+    "5846057",
+    "28022268153",
+    "1188253",
+    "-1981-1991",
+    "8945897",
+    "0044103",
+    "1981-1991",
+    "-1800-1849",
+    "48557576",
+    "1800-1849",
+    "52736406"
+  ],
+  "tables": [],
+  "paragraphs": []
+}
